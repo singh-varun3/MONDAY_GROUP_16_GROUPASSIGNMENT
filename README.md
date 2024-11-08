@@ -1,5 +1,4 @@
-# MONDAY_GROUP_16_GROUPASSIGNMENT
-This repo is for AED Group Assigment 2
+
 Test# MONDAY_GROUP_16_GROUPASSIGNMENT_2
 
 
@@ -29,9 +28,5 @@ The pricing team is entrusted with the responsibility of closely monitoring the 
 ## Support
 
 For support, email singh.varun3@northeastern.edu, verma.aksh@northeastern.edu, gomes.eth@northeastern.edu
-
-## Refernces/Help
-
-README file generated using `https://readme.so/editor`
 
 
